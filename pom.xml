@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>reactor</module>
+        <module>netty-tech</module>
     </modules>
 
 </project>

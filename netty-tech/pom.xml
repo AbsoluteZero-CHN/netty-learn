@@ -9,15 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>reactor</artifactId>
+    <artifactId>netty-tech</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.16</version>
-            <optional>true</optional>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.42.Final</version>
         </dependency>
     </dependencies>
-
 </project>
